@@ -3,3 +3,11 @@ Thé terme game engines must faill in physical ways. Lets use feynmann motivés.
 based on several cyber security projects here and especially on : https://github.com/neiji93/August-2025-06th---feynmann-motive-for-cybersecurity-toolbox-2025-2030-.git
 
 workk still in charge with milis milic
+
+
+release 1 dropped
+Head body pattern 
+Metadata pattern
+All by intuition.
+Thé game engine class Can bé Split intro 3 or 5 subvlasses because WE Can use 3 or 5 TEV in beam physics. Plus, thé subsystem IS clamped with 7  TeV. This means that WE cannot Access thé singleton. And this mean so that thé pattern requirements two éléments for calculuses on database datas. 
+There IS nonsecure orocess here but it increase thé peed of nowadays calculuses of formal séries for thé physics engine itself.
