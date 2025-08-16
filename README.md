@@ -13,4 +13,4 @@ Thé game engine class Can bé Split intro 3 or 5 subvlasses because WE Can use 
 There IS nonsecure orocess here but it increase thé peed of nowadays calculuses of formal séries for thé physics engine itself. especially done for cpu registers. the architecture must accept foga design. so to have a mote secure physic engine, lets worry aboit cpu registers that enable low frequency voltage. the datas size are scaled.
 nothing except foga algorithm is suited for yhose cpus here because nowadays formal series are also suited for a small bunch of codes 
 
-as o said this first release is dropped now. lets ser you soon.
+as o said this first release is dropped now. lets ser you soon. but is based on : https://github.com/cyring/CoreFreq.git
